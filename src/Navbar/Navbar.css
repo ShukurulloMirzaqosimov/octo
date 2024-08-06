@@ -1,0 +1,86 @@
+p{
+    color: gray;
+    /* background: #FFEEE9; */
+}
+ .first_row{
+    display: flex;
+    justify-content: space-between;
+
+ }
+.basa{
+    display: flex;
+    gap: 2rem;
+    margin-left: 100px;
+}
+.basa p{
+    display: flex;
+    
+}
+.icon{
+    font-size: 20px;
+    color: #F35525;
+    display: flex;
+}
+.icons{
+    margin-right: 90px;
+    gap: 1rem;
+    /* display: flex; */
+    margin-top: -5px;
+}
+li{
+    font-weight: 500;
+}
+.socials{
+    font-size: 30px;
+    border: 2px solid gray;
+    background-color: gray;
+    color: white;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.second_row{
+    display: flex;
+    justify-content: space-between;
+}
+.second_row h1 {
+    margin-left: 100px;
+    display: flex;
+}
+.second_row button{
+    height: 35px;
+    width: 180px;
+    border-radius: 20px;
+    border: none;
+    background: #000;
+    color: white;
+    margin-top: -5px;
+}
+.calendar{
+    font-size: 10px;
+    color: #fff;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 465px;
+    border-radius: 10%;
+    height: 25px;
+    padding: 5px;
+    width: 28px;
+    background: #F35525;
+    border-radius: 30px;
+}
+ul{
+    display: flex;
+    gap: 2rem;
+    margin-right: 90px;
+    margin-top: 35px;
+}
+li{
+    list-style-type: none;
+    transition: 0.4s;
+}
+li:hover{
+    color: #F35525;
+    cursor: pointer;
+}

@@ -1,0 +1,94 @@
+.video_bg{
+    height: 70vh;
+    width: 100vw;
+    /* position: relative; */
+    filter: blur(5px);
+    padding-top: 50px;
+}
+.open{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 90px;
+}
+.video_section_ban{
+    justify-content: center;
+    font-size: 35px;
+    color: white;
+    margin-left: 520px;
+}
+.video{
+    width: 1200px;
+    height: 500px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+.vieww{
+    margin-left: 600px;
+    color: tomato;
+    font-size: 20px;
+}
+
+.three_cards{
+    display: flex;
+    gap: 3rem;
+    margin-top: 500px;
+    margin-left: 125px;
+}
+.cc{
+    background-color: #FFEEE9;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    gap: 2rem ;
+}
+.cc h1{
+    color: tomato;
+    display: flex;
+}
+.cc h6{
+    font-size: 13px;
+    display: flex;
+}
+.card1{
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.card2{
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 240px;
+}
+.card3{
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 290px;
+}
+.qizil1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: -15px;
+}
+.qizil2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: -15px;
+}
+
+.qizil3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: absolute;
+    margin-left: 170px;
+    margin-top: -15px;
+}
+

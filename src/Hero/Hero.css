@@ -1,0 +1,63 @@
+body{
+    overflow-x: hidden;
+}
+.content{
+    width: 100vw;
+    height: 1200px;
+    /* background-image: url(./villa_bg.avif); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: -76.6%;
+    padding-left: 9.6%;
+    /* background: rgb(2,0,36);
+    background: linear-gradient(176deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0.49352240896358546) 0%, rgba(0,0,0,1) 100%, rgba(0,212,255,1) 100%); */
+}
+.locate{
+    padding: 10px;
+    width: 170px;
+    background: white;
+    border: none;
+    font-size: 17px;
+    margin-top: 20%;
+}
+.location_of_villa{
+    color: tomato;
+}
+.main{
+    color: white;
+    font-size: 50px;
+}
+.dotted1{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 20px;
+}
+.dotted2{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 80px;
+}
+.dotted3{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    margin-top: -200px; 
+    margin-left: 50px;
+}
+.finally{
+    margin-left: 130px;
+}
